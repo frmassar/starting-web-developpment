@@ -99,6 +99,7 @@ body{
         padding-left:25px;
         font-size:1rem;
         width:70%;
+        margin-top:2em;
     }
 .description h3{
     display: flex;
