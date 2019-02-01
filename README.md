@@ -1,11 +1,24 @@
-# starting-web-developpment
+# starting-web-developpment: Tim Berners-Lee
 
- BecoDE.LOvelace 3.9
+## BecoDE.LOvelace 3.9
 
-Reproduction d'une page internet designer en css sur "Tim Berners-Lee".
-Utilisation de tout ce qu'on a vu lors des semaines précédentes, sur l'utilisation du HTML ET CSS.
-Les difficultés etaient de rendre la pâge responsive et  de bien utiliser flex-box.
+## _Screenshot de ma réalisation:_ 
 
-François
+## Logiciel utilisé pour coder:
+Visual Studio Code
+
+## Lien vers consignes: 
+[Consignes GitHub](https://github.com/becodeorg/BXL-Lovelace-3.9/blob/master/parcours/01-La-prairie/html-css/8-exercice-summary.md)
+
+## Langages utilisés:
+- HTML
+- CSS (Flexbox) 
+
+## lieu et date:
+fait à Becode lors de la 3eme semaine de formation.
+
+## bonus:
+Page entièrement responsive.
+
 
  
