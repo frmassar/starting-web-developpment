@@ -4,7 +4,8 @@
 
 ## _Screenshot de ma réalisation:_ 
 
-![screenshot](/home/francois/becode/starting-web-developpment/Capture d’écran de 2019-02-01 10-55-37.png)
+<img src="Capture d’écran de 2019-02-01 10-55-37.png" alt="photo"/>
+
 
 ## Logiciel utilisé pour coder:
 Visual Studio Code
