@@ -1,4 +1,4 @@
-# starting-web-developpment: Tim Berners-Lee
+# Starting-web-developpment: Tim Berners-Lee
 
 ## BecoDE.LOvelace 3.9
 
@@ -17,13 +17,13 @@ Visual Studio Code
 - HTML
 - CSS (Flexbox) 
 
-## lieu et date:
-fait à Becode lors de la 3eme semaine de formation.
+## Lieu et date:
+Fait à Becode lors de la 3eme semaine de formation.
 
-## difficultés et facilités:
+## Difficultés et facilités:
 -Difficulté à jongler entre les différentes unité de mesure (%, rem ,px,..).
 -Facilité à l'utilisation de flexbox.
-## bonus:
+## Bonus:
 Page entièrement responsive.
 
 
