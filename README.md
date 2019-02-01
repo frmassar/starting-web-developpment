@@ -20,6 +20,9 @@ Visual Studio Code
 ## lieu et date:
 fait à Becode lors de la 3eme semaine de formation.
 
+## difficultés et facilités:
+-Difficulté à jongler entre les différentes unité de mesure (%, rem ,px,..).
+-Facilité à l'utilisation de flexbox.
 ## bonus:
 Page entièrement responsive.
 
